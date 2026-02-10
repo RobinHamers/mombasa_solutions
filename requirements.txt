@@ -1,0 +1,11 @@
+pandas
+geopandas
+pydantic
+h3pandas
+matplotlib
+shapely
+tenacity
+tqdm
+google-genai
+ipython
+gcsfs
